@@ -32,13 +32,12 @@
   },
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "ldapauth-fork": "~2.3.0"
+    "ldapjs": "0.7.x"
   },
   "devDependencies": {
     "body-parser": "1.12.x",
     "chai": "2.1.x",
     "express": "4.9.x",
-    "ldapjs": "0.7.x",
     "mocha": "2.1.x",
     "supertest": "0.15.x",
     "passport": "~0.2.0"
